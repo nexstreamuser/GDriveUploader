@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5546400177:AAE4IUMxrV6SUil9I-AEkVngivGFsCPIp6A"
+    APP_ID = "18313456"
+    API_HASH = "134a55b57af88df9ff6e574c16a32645"
+    DATABASE_URL = "postgresql://csbxtdqi:DAKvvB44GzjAsRyZrgfsMf0OE6ng8ysd@tyke.db.elephantsql.com/csbxtdqi"
+    SUDO_USERS = "1948305853" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/nexstreamofficial"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "221820986697-g19hign16s0tkgvjjt30otnbf9vbteih.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "AIzaSyBHkC-GY1KmDPuC5oBc4gJNQDEw16_rzPQ"
 
 
 class BotCommands:
